@@ -1,5 +1,0 @@
-npm i 
-npm nodemon 
-npm i express 
-npm i axios
-npm i cors => allow us backend to recieve requests
